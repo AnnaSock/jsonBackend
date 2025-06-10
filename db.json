@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "nom": "Sock",
+      "prenom": "Anna",
+      "numero": "781832623",
+      "motDePasse": "passer"
+    },
+    {
+      "id": "2",
+      "nom": "Sy",
+      "prenom": "Anta",
+      "numero": "786556543",
+      "": "passer1"
+    }
+  ],
+  "groupes": [
+    {
+      "id": 1,
+      "nom": "mafia",
+      "membres": "2"
+    }
+  ]
+}
