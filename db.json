@@ -1,18 +1,20 @@
 {
-  "contacts": [
+  "utilisateurs": [
     {
       "id": "1",
       "nom": "Sock",
       "prenom": "Anna",
       "numero": "781832623",
-      "motDePasse": "passer"
+      "motDePasse": "passer",
+      "contacts": ["2"]
     },
     {
       "id": "2",
       "nom": "Sy",
       "prenom": "Anta",
       "numero": "786556543",
-      "motDePasse": "passer1"
+      "motDePasse": "passer1",
+      "contacts": ["1"]
     }
   ],
   "groupes": [
